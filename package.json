@@ -1,0 +1,23 @@
+{
+  "name": "oficina01-modulo-intermediario",
+  "version": "1.0.0",
+  "description": "Oficina Número 01 do Módulo Intermédio Atlântico Avanti",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caio663/oficina01-modulo-intermediario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Caio663/oficina01-modulo-intermediario/issues"
+  },
+  "homepage": "https://github.com/Caio663/oficina01-modulo-intermediario#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.2"
+  }
+}
