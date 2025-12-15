@@ -28,7 +28,7 @@ oficina01-modulo-intermediario/
 │
 ├── tests/
 │   ├── pages/
-│   │   └── AcharOTitlePage.ts
+│   │   └── achar-o-title.ts
 │   └── specs/
 │       └── achar-o-title.spec.ts
 │
